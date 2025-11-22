@@ -1,3 +1,4 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!doctype html>
 <html>
     <head>
@@ -32,8 +33,8 @@
             <p style="text-align: center;"><span id="author"></span>:
                 Pavel Ponec,
                 <%=java.time.LocalDate.now().getYear()%>,
-                help.ujorm@gmail.com
-                <br>Editor: Мозжухин Марк</p>
+                help.ujorm@gmail.com</p>
+            <p style="text-align: center;">Editor: Mark Mozzhukhin</p>
         </div>
     </body>
 </html>
