@@ -32,7 +32,8 @@
             <p style="text-align: center;"><span id="author"></span>:
                 Pavel Ponec,
                 <%=java.time.LocalDate.now().getYear()%>,
-                help.ujorm@gmail.com</p>
+                help.ujorm@gmail.com
+                <br>Editor: Мозжухин Марк</p>
         </div>
     </body>
 </html>
