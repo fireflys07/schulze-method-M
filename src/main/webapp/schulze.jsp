@@ -34,7 +34,7 @@
                 Pavel Ponec,
                 <%=java.time.LocalDate.now().getYear()%>,
                 help.ujorm@gmail.com</p>
-            <p style="text-align: center;">Editor: Mark Mozzhukhin</p>
+            <p style="text-align: center;">Editor: Mark Mozzhukhin (люблю котиков :3)</p>
         </div>
     </body>
 </html>
